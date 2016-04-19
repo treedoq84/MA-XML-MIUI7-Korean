@@ -3497,7 +3497,7 @@ Google 동기화는 사용자가 어디에서든지 연락처, 일정 등에 액
     <string name="deny_sms_title">SMS 잠금</string>
     <string name="deny_sms_message">설치한 앱이 SMS를 보내도록 허용 안 함</string>
     <string name="wakeup_for_keyguard_notification_title">알림 수신시 잠금화면 켜기</string>
-    <string name="pref_edge_handgrip">에지 컨트롤</string>
+    <string name="pref_edge_handgrip">엣지 컨트롤</string>
     <string name="edge_mode_notification_title">엣지 컨트롤을 사용합니다.</string>
     <string name="edge_mode_notification_summary">탭하여 더 알아보기.</string>
     <string name="edge_mode_photo">사진 찍기</string>
